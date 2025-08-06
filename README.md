@@ -1,2 +1,3 @@
 # SWD-temporal-data-analysis-repo
-Repository for for analysis of temporal SWD data
+## SWD data Repository 
+This space is intended to be a hub for analyis of temporal SWD collection/sorting data.
